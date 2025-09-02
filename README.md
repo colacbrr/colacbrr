@@ -13,7 +13,7 @@
 
 ## 🧙 About
 
-I’m a Computer and Information Technology graduate, building ideas from **Bucharest, Romania 🇷🇴**, conjuring interfaces, steady backends and clean AI that feels like casting *one* simple spell. I try to leave code tidier than I found it and ship small spells (PRs) often.
+I’m a Computer and Information Technology graduate, summoning ideas into existence from **Bucharest, Romania 🇷🇴**, conjuring interfaces, steady backends and clean AI that feels like casting *one* simple spell. I try to leave code tidier than I found it and ship small spells (PRs) often.
 
 ```javascript
 const wiz = {
@@ -98,7 +98,7 @@ Something went wrong…
 
 ## 🛡️ Guild & Open Source
 
-* ✨ I gravitate to projects that value DX and great docs.
+* ✨ I gravitate to projects that have great docs.
 * 🧩 I open issues with clear repros and send focused PRs.
 * 🧭 I respect existing styleguides and lore.
 
