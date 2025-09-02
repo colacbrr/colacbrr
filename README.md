@@ -42,8 +42,6 @@ const wiz = {
 **Learning (new school of magic)**
 `Google Cloud` · `Go (Golang)` · `React` · `TypeScript` · `Vue` · `Next.js` · `Vite` · `Tailwind` · `Vercel` · `GitHub Actions`
 
-> Removed from the grimoire: **Express, Prisma, Redis, AWS (EC2/S3), Playwright, Jest**.
-
 ---
 
 ## 🔮 Crystal Ball (Stats)
@@ -63,7 +61,7 @@ Something went wrong…
 
 </div>
 
-> Tip: Usernames may contain only **alphanumeric characters** or **single hyphens**, and cannot **begin or end with a hyphen**. If a card service blocks your name, try alternative badges or remove this section until the omens improve. ✨
+> Tip: User may have been blacklisted due to error: "User stats are exceeding the test calibrated limits". Try using the "user status test check" documentation to solve if issue persists. ✨
 
 ---
 
