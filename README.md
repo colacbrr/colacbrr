@@ -6,9 +6,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-### `console.log("Hocus Pocus, World!")` 👋
-
-**Arcane code‑slinger · Digital alchemist · Bug whisperer**
+**· Digital alchemist ·**
 
 </div>
 
