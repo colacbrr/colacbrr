@@ -1,192 +1,154 @@
 <div align="center">
 
 ```ascii
-    ╔═══════════════════════════════════════════════════════╗
-    ║  ____                 _                               ║
-    ║ |  _ \  ___ __   __   | |  ___   _ __    ___  _ __     ║
-    ║ | | | |/ _ \\ \ / /   | | / _ \ | '_ \  / _ \| '__|    ║
-    ║ | |_| |  __/ \ V /    | ||  __/ | |_) ||  __/| |       ║
-    ║ |____/ \___|  \_/     |_| \___| | .__/  \___||_|       ║
-    ║                                 |_|                   ║
-    ╚═══════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════╗
+║                     C O L A C B R R                  ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
-**`console.log("Hello, World!");`** 👋  
-*Code explorer • Digital craftsman • Bug whisperer*
+### `console.log("Hocus Pocus, World!")` 👋
+
+**Arcane code‑slinger · Digital alchemist · Bug whisperer**
 
 </div>
 
 ---
 
-## 🎮 Character Stats
+## 🧙 About the Wizard
+
+I’m a builder from **Bucharest, Romania 🇷🇴**, conjuring clean UIs, steady backends, and DX that feels like casting *one* simple spell. I leave code tidier than I found it and ship small spells (PRs) often.
 
 ```javascript
-const developer = {
-  name: "YourName",
-  class: "Full Stack Explorer",
-  level: getCurrentYear() - 2018,
-  location: "Bucharest, Romania 🇷🇴",
-  
-  stats: {
-    curiosity: 99,
-    caffeine_dependency: 87,
-    debug_patience: 73,
-    refactor_addiction: 95
-  },
-  
-  currently_exploring: "AI & WebAssembly",
-  side_quest: "Contributing to open source",
-  favorite_debugging_tool: "console.log everywhere"
+const wizard = {
+  name: "Colacbrr",
+  class: ["Full‑Stack", "DX‑oriented"],
+  first_spell_cast: 2018,
+  lair: "Bucharest, RO",
+  familiar_spirits: ["AI", "WebAssembly", "DevTools"],
+  creed: ["clarity", "reliability", "kindness"],
 };
 ```
 
 ---
 
-## 🛠️ Skill Tree
+## 📜 Spellbook (Tech Stack)
 
-```ascii
-Programming Languages:
-├── JavaScript ████████████ 95%
-├── Python     ██████████   85%
-├── TypeScript ████████     70%
-└── Rust       █████        45%
+**Front‑End Charms**: `React` · `TypeScript` · `Vue` · `Next.js` · `Vite` · `Tailwind`
 
-Frontend Magic:
-├── React      ████████████ 90%
-├── Vue.js     █████████    80%
-└── CSS Wizardry ████████   75%
+**Back‑End Incantations**: `Node.js` · `FastAPI` · `Express` · `PostgreSQL` · `Prisma` · `Redis`
 
-Backend Sorcery:
-├── Node.js    ████████████ 90%
-├── FastAPI    ████████     70%
-└── PostgreSQL █████████    85%
+**DevOps Runes**: `Docker` · `GitHub Actions` · `AWS (EC2/S3)` · `Vercel` · `Playwright` · `Jest`
 
-DevOps Spells:
-├── Docker     ████████     75%
-├── AWS        ██████       60%
-└── Git        ████████████ 95%
-```
+> Self‑attuned power levels: JS **95** · Python **85** · TypeScript **80** · React **90** · Vue **80** · Node **90** · PostgreSQL **85** · Docker **75** · Git **95**
 
 ---
 
+## 🔮 Crystal Ball (Stats)
+
 <div align="center">
 
-## 📊 GitHub Playground
+<img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
 ---
 
-## 🚀 Featured Experiments
+## 🧪 Summoned Projects
 
-<details>
-<summary>🎯 <strong>Project Alpha</strong> - Interactive Web Experience</summary>
+### 🎯 Project Alpha — Interactive Web Experience
 
-```ascii
-Tech Stack: [React] + [Node.js] + [PostgreSQL]
-Status: ████████████ DEPLOYED
+**Ingredients**: React · Node.js · PostgreSQL
+**Enchantments**
 
-▸ Real-time data visualization
-▸ 5000+ active users
-▸ Performance optimized for mobile
-```
+* Real‑time scrying (websockets)
+* Lighthouse > 90 on mobile familiars
+* JWT wards + RBAC sigils
 
-**[Live Demo](https://your-project.com)** | **[Source Code](https://github.com/you/project)**
-
-</details>
-
-<details>
-<summary>🌟 <strong>Project Beta</strong> - AI-Powered Tool</summary>
-
-```ascii
-Tech Stack: [Python] + [FastAPI] + [Vue.js]
-Status: ██████████░░ 85% COMPLETE
-
-▸ Machine learning integration
-▸ RESTful API with 99.9% uptime
-▸ Modern, responsive interface
-```
-
-**[Coming Soon](https://github.com/you/project2)**
-
-</details>
+**[Live](https://your-project.com) · [Code](https://github.com/you/project)**
 
 ---
 
-## 🎯 Code Playground
+### 🌟 Project Beta — AI‑Powered Tool
+
+**Ingredients**: Python · FastAPI · Vue
+**Enchantments**
+
+* ML familiar served via REST
+* Modern, accessible grimoire (UI)
+* Observability potions (logs + metrics)
+
+**[Repo](https://github.com/you/project2)**
+
+> Peek into Issues/Discussions for architecture scrolls, ADRs, and roadmap runes.
+
+---
+
+## 🧰 Arcane Sandbox
 
 ```javascript
-// Interactive section - try running this!
-class Developer {
-  constructor(name) {
-    this.name = name;
-    this.coffee_count = 0;
-    this.bugs_fixed = [];
-  }
-  
-  drinkCoffee() {
-    this.coffee_count++;
-    return this.coffee_count > 3 ? "✨ Super powers activated!" : "☕ Refueling...";
-  }
-  
-  fixBug(bug) {
-    this.bugs_fixed.push(bug);
-    return `🐛 → ✅ ${bug} squashed!`;
-  }
-  
-  getMotivation() {
-    const quotes = [
-      "Every expert was once a beginner",
-      "Code is poetry written in logic",
-      "The best debugger is a good night's sleep"
+class Wizard {
+  #coffee = 0; #spells = [];
+  constructor(name){ this.name = name; }
+  sipPotion(){ return ++this.#coffee > 3 ? "✨ Mana overflow!" : "☕ Brewing..."; }
+  cast(spell){ this.#spells.push(spell); return `🪄 ${spell} — *successfully cast!*`; }
+  wisdom(){
+    const runes = [
+      "Measure twice, ship once",
+      "Small PRs, happy coven",
+      "Readability > cleverness",
     ];
-    return quotes[Math.floor(Math.random() * quotes.length)];
+    return runes[Math.floor(Math.random() * runes.length)];
   }
 }
 
-const me = new Developer("YourName");
-console.log(me.drinkCoffee());
+const me = new Wizard("Colacbrr");
+console.log(me.sipPotion());
 ```
 
 ---
 
-## 🎲 Random Fun Facts
+## 🛡️ Guild & Open Source
 
-```ascii
-[LOADING DEVELOPER PROFILE...]
-████████████████████████ 100%
+* ✨ I gravitate to projects that value DX and great docs.
+* 🧩 I open issues with clear repros and send focused PRs.
+* 🧭 I respect existing styleguides and lore.
 
-> Favorite keyboard shortcut: Ctrl+Z (obviously)
-> Code style: "It works, don't touch it"
-> Debugging method: Rubber duck consulting
-> Dream project: AI that fixes its own bugs
-> Coffee-to-code ratio: 1:∞
-```
+*Have a quest? Tag it* **good first issue** *or* **help wanted**.
+
+---
+
+## ✉️ Summon Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge\&logo=firefox\&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 🧹 Quick Setup (replace placeholders)
+
+* Swap `[YourUsername]`, project links, and contact links.
+* Tune the “power levels” to be honest.
+* Showcase 1–2 real quests with **problem → spell → impact**.
+* If you don’t want the stats cards, remove **Crystal Ball (Stats)**.
 
 ---
 
 <div align="center">
 
-## 🌐 Connect & Explore
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
 ```ascii
-┌─────────────────────────────────────┐
-│  Thanks for exploring my profile!  │
-│                                     │
-│  > git commit -m "Made new friend"  │
-│  > git push origin collaboration    │
-└─────────────────────────────────────┘
+Thanks for visiting — may your tests be green and your spells idempotent! ✨
+> git commit -m "Befriended a fellow mage"
+> git push origin collaboration
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YourUsername]&color=4A90E2&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=\[YourUsername]\&color=4A90E2\&style=flat-square)
 
 </div>
