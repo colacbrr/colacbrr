@@ -48,11 +48,12 @@ const wiz = {
 
 ```ascii
 [ORACLE FOG RISES]
+Oracle glass cracks…
 Something went wrong…
-→ Third‑party stat cards replied: "This username is blacklisted."
+→ Third‑party oracle status cards replied: "This user is blacklisted."
 ```
 
-**Fallback charms** (reliable badges):
+**In case of errors, use status badges:** (reliable badges):
 
 <div align="center">
 
