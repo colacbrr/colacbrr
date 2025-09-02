@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```ascii
@@ -31,23 +30,40 @@ const wiz = {
 
 ## 📜 Spellbook (Tech Stack)
 
-**Front‑End Charms**: `React` · `TypeScript` · `Vue` · `Next.js` · `Vite` · `Tailwind`
+**Core Languages & Markup**
+`HTML` · `CSS` · `JavaScript` · `C` · `C++` · `C#` · `Python`
 
-**Back‑End Incantations**: `Node.js` · `FastAPI` · `Express` · `PostgreSQL` · `Prisma` · `Redis`
+**Frameworks & Data**
+`Django` · `.NET` · `Node.js` · `FastAPI` · `PostgreSQL` · `SQL`
 
-**DevOps Runes**: `Docker` · `GitHub Actions` · `AWS (EC2/S3)` · `Vercel` · `Playwright` · `Jest`
+**DevOps Runes**
+`Docker` · `Git`
+
+**Learning (new school of magic)**
+`Google Cloud` · `Go (Golang)` · `React` · `TypeScript` · `Vue` · `Next.js` · `Vite` · `Tailwind` · `Vercel` · `GitHub Actions`
+
+> Removed from the grimoire: **Express, Prisma, Redis, AWS (EC2/S3), Playwright, Jest**.
 
 ---
 
 ## 🔮 Crystal Ball (Stats)
 
+```ascii
+[ORACLE FOG RISES]
+Something went wrong…
+→ Third‑party stat cards replied: "This username is blacklisted."
+```
+
+**Fallback charms** (reliable badges):
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/<your-username>?style=flat)
+![Stars](https://img.shields.io/github/stars/<your-username>?affiliations=OWNER\&style=flat)
 
 </div>
+
+> Tip: Usernames may contain only **alphanumeric characters** or **single hyphens**, and cannot **begin or end with a hyphen**. If a card service blocks your name, try alternative badges or remove this section until the omens improve. ✨
 
 ---
 
@@ -104,15 +120,6 @@ const wiz = {
 
 ---
 
-## 🧹 Quick Setup (replace placeholders)
-
-* Swap `[YourUsername]`, project links, and contact links.
-* Tune the “power levels” to be honest.
-* Showcase 1–2 real quests with **problem → spell → impact**.
-* If you don’t want the stats cards, remove **Crystal Ball (Stats)**.
-
----
-
 <div align="center">
 
 ```ascii
@@ -121,6 +128,6 @@ Thanks for visiting — may your tests be green and your spells idempotent! ✨
 > git push origin collaboration
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=\[YourUsername]\&color=4A90E2\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=<your-username>\&color=4A90E2\&style=flat-square)
 
 </div>
