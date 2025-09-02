@@ -2,10 +2,10 @@
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════╗
-║                     C O L A C B R R                   ║
-║                    · Digital alchemist ·              ║
-╚═══════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════╗
+║                       C O L A C B R R                   ║
+║                    · Digital alchemist ·                ║
+╚═════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -14,7 +14,7 @@
 
 ## 🧙 About
 
-I’m a builder from **Bucharest, Romania 🇷🇴**, conjuring clean UIs, steady backends, and DX that feels like casting *one* simple spell. I leave code tidier than I found it and ship small spells (PRs) often.
+I’m a Computer and Information Technology graduate, building ideas from **Bucharest, Romania 🇷🇴**, conjuring interfaces, steady backends and clean AI that feels like casting *one* simple spell. I try to leave code tidier than I found it and ship small spells (PRs) often.
 
 ```javascript
 const wiz = {
@@ -23,7 +23,7 @@ const wiz = {
   first_spell_cast: 2018,
   lair: "Bucharest, RO",
   familiar_spirits: ["AI", "WebAssembly", "DevTools"],
-  creed: ["clarity", "reliability", "kindness"],
+  creed: ["ostenion", "clarity", "reliability", "kindness"],
 };
 ```
 
@@ -78,30 +78,6 @@ const wiz = {
 **[Repo](https://github.com/you/project2)**
 
 > Peek into Issues/Discussions for architecture scrolls, ADRs, and roadmap runes.
-
----
-
-## 🧰 Arcane Sandbox
-
-```javascript
-class Wizard {
-  #coffee = 0; #spells = [];
-  constructor(name){ this.name = name; }
-  sipPotion(){ return ++this.#coffee > 3 ? "✨ Mana overflow!" : "☕ Brewing..."; }
-  cast(spell){ this.#spells.push(spell); return `🪄 ${spell} — *successfully cast!*`; }
-  wisdom(){
-    const runes = [
-      "Measure twice, ship once",
-      "Small PRs, happy coven",
-      "Readability > cleverness",
-    ];
-    return runes[Math.floor(Math.random() * runes.length)];
-  }
-}
-
-const me = new Wizard("Colacbrr");
-console.log(me.sipPotion());
-```
 
 ---
 
