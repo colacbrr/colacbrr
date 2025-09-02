@@ -53,7 +53,7 @@ Something went wrong…
 → Third‑party oracle status cards replied: "This user is blacklisted."
 ```
 
-**In case of errors, use status badges:** (reliable badges):
+**In case of errors, use status badges:**
 
 <div align="center">
 
