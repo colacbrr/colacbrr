@@ -37,8 +37,6 @@ const wiz = {
 
 **DevOps Runes**: `Docker` · `GitHub Actions` · `AWS (EC2/S3)` · `Vercel` · `Playwright` · `Jest`
 
-> Self‑attuned power levels: JS **95** · Python **85** · TypeScript **80** · React **90** · Vue **80** · Node **90** · PostgreSQL **85** · Docker **75** · Git **95**
-
 ---
 
 ## 🔮 Crystal Ball (Stats)
