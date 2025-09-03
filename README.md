@@ -93,6 +93,8 @@ Something went wrong…
 
 **[Repo](https://github.com/you/project2)**
 
+---
+
 ## ✉️ Summon Me
 
 <div align="center">
