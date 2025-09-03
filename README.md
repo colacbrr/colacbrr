@@ -67,7 +67,7 @@ Something went wrong…
 
 ---
 
-## 🧪 Summoned Projects
+## 🧪 Summoned Projects Under Construction...
 
 ### 🎯 Project Alpha — Interactive Web Experience
 
@@ -93,20 +93,6 @@ Something went wrong…
 
 **[Repo](https://github.com/you/project2)**
 
-> Peek into Issues/Discussions for architecture scrolls, ADRs, and roadmap runes.
-
----
-
-## 🛡️ Guild & Open Source
-
-* ✨ I gravitate to projects that have great docs.
-* 🧩 I open issues with clear repros and send focused PRs.
-* 🧭 I respect existing styleguides and lore.
-
-*Have a quest? Tag it* **good first issue** *or* **help wanted**.
-
----
-
 ## ✉️ Summon Me
 
 <div align="center">
@@ -120,14 +106,3 @@ Something went wrong…
 
 ---
 
-<div align="center">
-
-```ascii
-Thanks for visiting — may your tests be green and your spells idempotent! ✨
-> git commit -m "Befriended a fellow mage"
-> git push origin collaboration
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=<your-username>\&color=4A90E2\&style=flat-square)
-
-</div>
