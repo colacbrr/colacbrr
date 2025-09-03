@@ -14,7 +14,7 @@
 
 ## 🧙 About
 
-I’m a Computer and Information Technology graduate, summoning ideas into existence from **Bucharest, Romania 🇷🇴**, conjuring interfaces, steady backends and clean AI that feels like casting *one* simple spell. I try to leave code tidier than I found it and ship small spells (PRs) often.
+I’m a Computer and Information Technology graduate, summoning ideas into existence, conjuring interfaces, steady backends and clean AI that feels like casting *one* simple spell. I try to leave code tidier than I found it and ship small spells (PRs) often.
 
 ```javascript
 const wiz = {
@@ -22,7 +22,6 @@ const wiz = {
   class: ["Full‑Stack Dev", "Cloud Scholar"],
   first_spell_cast: 2018,
   lair: "Bucharest, RO",
-  familiar_spirits: ["AI", "WebAssembly", "DevTools"],
   creed: ["ostenion", "clarity", "reliability", "kindness"],
 };
 ```
@@ -49,7 +48,7 @@ const wiz = {
 
 ```ascii
 [ORACLE FOG RISES]
-Oracle glass cracks…
+Oracle glass cracks **//ERROR…
 Something went wrong…
 → Third‑party oracle status cards replied: "This user is blacklisted."
 ```
