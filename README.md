@@ -20,8 +20,6 @@ I’m a Computer and Information Technology graduate, summoning ideas into exist
 const wiz = {
   name: "Colacbrr",
   class: ["Full‑Stack Dev", "Cloud Scholar"],
-  first_spell_cast: 2018,
-  lair: "Bucharest, RO",
   creed: ["ostenion", "clarity", "reliability", "kindness"],
 };
 ```
@@ -63,47 +61,6 @@ Something went wrong…
 </div>
 
 > Tip: User may have been blacklisted due to error: "User stats are exceeding the test calibrated limits". Try using the "user status test check" documentation to solve if issue persists. ✨
-
----
-
-## 🧪 Summoned Projects Under Construction...
-
-### 🎯 Project Alpha — Interactive Web Experience
-
-**Ingredients**: React · Node.js · PostgreSQL
-**Enchantments**
-
-* Real‑time scrying (websockets)
-* Lighthouse > 90 on mobile familiars
-* JWT wards + RBAC sigils
-
-**[Live](https://your-project.com) · [Code](https://github.com/you/project)**
-
----
-
-### 🌟 Project Beta — AI‑Powered Tool
-
-**Ingredients**: Python · FastAPI · Vue
-**Enchantments**
-
-* ML familiar served via REST
-* Modern, accessible grimoire (UI)
-* Observability potions (logs + metrics)
-
-**[Repo](https://github.com/you/project2)**
-
----
-
-## ✉️ Summon Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge\&logo=firefox\&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
-
-</div>
 
 ---
 
