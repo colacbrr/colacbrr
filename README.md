@@ -14,7 +14,7 @@
 
 ## 🧙 About
 
-I’m a Computer and Information Technology graduate, summoning ideas into existence, conjuring interfaces, steady backends and clean AI that feels like casting *one* simple spell. I try to leave code tidier than I found it and ship small spells (PRs) often.
+I’m an Electronics, Computers and Information Technology graduate, summoning ideas into existence, conjuring interfaces, steady backends and clean AI that feels like casting *one* simple spell. I try to leave code tidier than I found it and ship small spells (PRs) often.
 
 ```javascript
 const wiz = {
