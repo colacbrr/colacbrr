@@ -2,7 +2,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                        C O L A C B R R                       ║
+║                   CRISTIAN-ADRIAN COLĂCEL                    ║
+║                     ( C O L A C B R R )                      ║
 ║           · Digital alchemist / bug exorcist ·               ║
 ║   Python · FastAPI · AI/ML · Full-Stack · MLOps · GCP        ║
 ╚══════════════════════════════════════════════════════════════╝
