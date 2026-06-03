@@ -41,22 +41,22 @@ const wiz = {
 ## 📜 Spellbook
 
 **Backend / APIs**  
-`Python` · `FastAPI` · `Django` · `Django REST Framework` · `Flask` · `REST APIs` · `Pydantic` · `SQLAlchemy` · `Alembic`
+`Python` · `FastAPI` · `Django` · `Django REST Framework` · `Flask` · `REST APIs` · `Pydantic` · `SQLAlchemy` · `Alembic` · `and More`
 
 **Frontend / Product UI**  
-`React` · `TypeScript` · `JavaScript` · `Next.js` · `Vite` · `SvelteKit` · `Tailwind CSS` · `Recharts` · `Radix UI`
+`React` · `TypeScript` · `JavaScript` · `Next.js` · `Vite` · `SvelteKit` · `Tailwind CSS` · `Recharts` · `Radix UI` · `and More`
 
 **Data / AI / ML**  
-`PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas` · `NumPy` · `SciPy` · `OpenCV` · `FAISS` · `CLIP` · `RAG` · `MLflow` · `NLP` · `Computer Vision`
+`PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas` · `NumPy` · `SciPy` · `OpenCV` · `FAISS` · `CLIP` · `RAG` · `MLflow` · `NLP` · `Computer Vision` · `and More`
 
 **Databases / Storage**  
-`PostgreSQL` · `SQL` · `YugabyteDB` · `SQLite` · `Supabase` · `MinIO` · `Object Storage` · `Row Level Security`
+`PostgreSQL` · `SQL` · `YugabyteDB` · `SQLite` · `Supabase` · `MinIO` · `Object Storage` · `Row Level Security` · `and More`
 
 **Infra / Dev Tools**  
-`Docker` · `Docker Compose` · `Nginx` · `Git` · `GitHub` · `Linux` · `Makefile automation` · `pdflatex`
+`Docker` · `Docker Compose` · `Nginx` · `Git` · `GitHub` · `Linux` · `Makefile automation` · `and More`
 
 **Hardware / Real-Time Weirdness**  
-`ESP32` · `Raspberry Pi 5` · `IoT telemetry` · `WebSockets` · `FFT` · `D3.js` · `Sensor pipelines`
+`ESP32` · `Raspberry Pi 5` · `IoT telemetry` · `WebSockets` · `FFT` · `D3.js` · `Sensor pipelines` · `and More`
 
 ---
 
