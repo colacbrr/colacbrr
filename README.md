@@ -68,9 +68,10 @@ const wiz = {
 | [Multimedia Information Retrieval](https://github.com/colacbrr/Multimedia-Information-Retrieval-RAG) | Local-first semantic image search with CLIP, FAISS, reranking, and Ollama explanations. | FastAPI, React, PyTorch, FAISS, CLIP, RAG, Ollama |
 | [Real-Time Emotion Recognition Platform](https://github.com/colacbrr/Real-Time-Emotion-Recognition-Platform) | Full-stack ML demo for facial emotion recognition, model comparison, and inference. | FastAPI, React, PyTorch, OpenCV, ResNet, EfficientNet, SVM |
 | [Reaction-Diffusion Benchmark](https://github.com/colacbrr/Reaction-Diffusion-Benchmark) | Scientific Python benchmark comparing vectorized NumPy with parallel Numba. | NumPy, Numba, SciPy, Matplotlib, CLI, benchmarking |
-| [CVGenerator]() | Profile-driven CV and cover-letter generator that parses job offers and emits tailored PDFs. | Python, Markdown parsing, LaTeX, template manifests, ATS tailoring |
-| [Mall Customer Segmentation]() | Python/R segmentation project with reproducible HTML reports and dashboard automation. | Python, R, PCA, K-Means, FastAPI, React, nbconvert |
-| [InvestSim]() | Personal-finance simulator for contributions, scenarios, IRR, inflation, and exports. | Next.js, TypeScript, Tailwind, Recharts |
+| [CVGenerator](https://github.com/colacbrr/CV-CoverLetter-Generator) | Profile-driven CV and cover-letter generator that parses job offers and emits tailored PDFs. | Python, Markdown parsing, LaTeX, template manifests, ATS tailoring |
+| [Mall Customer Segmentation](https://github.com/colacbrr/Mall-Customer-Segmentation) | Python/R segmentation project with reproducible HTML reports and dashboard automation. | Python, R, PCA, K-Means, FastAPI, React, nbconvert |
+| [InvestSim](https://github.com/colacbrr/InvestSim) | Personal-finance simulator for contributions, scenarios, IRR, inflation, and exports. | Next.js, TypeScript, Tailwind, Recharts |
+| [Remote-Terminal](https://github.com/colacbrr/Remote-Terminal) |  |
 | WardrobeApp / LeafPad / Flutter apps | Consumer product experiments: wardrobe management, PDF reader, quote/vocab learning apps. | Next.js, Supabase, Electron, PDF.js, Flutter, Dart |
 | Smart Solar Tracking System | Bachelor thesis: autonomous solar tracking, telemetry, dashboards, and forecasting. | ESP32, Raspberry Pi, Django, PostgreSQL, D3.js, LSTM |
 ---
