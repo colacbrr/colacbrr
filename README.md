@@ -34,7 +34,7 @@ I build backend-heavy, product-shaped systems that work end-to-end: **Python/Fas
 
 - Built 4 public end-to-end systems spanning RAG, full-stack platforms, ML inference, and scientific benchmarking.
 - Measured retrieval benchmarks: ~6.9 ms average search latency, Recall@10 0.88 on 1k images.
-- Completed 3 months of production internship delivery and 6 months of cross-platform QA on a AAA title.
+- Delivered production-adjacent experience in Django web development and cross-platform QA.
 
 ---
 
@@ -69,8 +69,8 @@ Executed functional, regression, and compatibility testing across three platform
 
 | Degree | Institution | Period | Focus |
 |---|---|---|---|
-| M.Sc. Information Systems | POLITEHNICA Bucharest | 2025 – present | Retrieval systems, MLOps, cloud-native architecture, applied AI |
-| B.Eng. Computers and Information Technology | POLITEHNICA Bucharest | 2020 – 2025 | Software engineering, embedded systems, databases, AI/ML |
+| M.Sc. Information Systems | POLITEHNICA Bucharest | 2025 – present | Computer vision, image and signal processing, statistical modeling, simulation, scientific databases, multimedia systems, wireless networks, optimization, and nature-inspired computing |
+| B.Eng. Computers and Information Technology | POLITEHNICA Bucharest | 2020 – 2025 | Software development, OOP, algorithms, data structures, AI fundamentals, statistics, digital logic, microprocessor architecture, and embedded-systems fundamentals |
 
 ---
 
@@ -129,9 +129,9 @@ Executed functional, regression, and compatibility testing across three platform
 
 ### [Multimedia Information Retrieval (RAG)](https://github.com/colacbrr/Multimedia-Information-Retrieval-RAG)
 
-Local-first semantic search over images and video using CLIP embeddings, FAISS indexes, FastAPI APIs, and a React interface.
+**What it is:** Local-first semantic search over images and video using CLIP embeddings, FAISS indexes, FastAPI APIs, and a React interface.
 
-Demonstrates a complete applied retrieval pipeline with multimodal indexing, reranking, explainability, and measurable retrieval quality.
+**Why it matters:** It demonstrates a complete applied retrieval pipeline with multimodal indexing, reranking, explainability, and measurable retrieval quality.
 
 **Highlights**
 - Combined text, image, frame, and video retrieval with separate modality indexes and timestamped best-frame metadata.
@@ -144,9 +144,9 @@ Demonstrates a complete applied retrieval pipeline with multimodal indexing, rer
 
 ### [StartStack Platform](https://github.com/colacbrr/Startstack-Platform)
 
-Full-stack marketplace-style platform for startup services and reusable website templates, built around separate public, client, and staff workflows.
+**What it is:** Full-stack e-startup and template marketplace with separate public, client, and staff workflows.
 
-Models a realistic product backend with authentication, RBAC, transactional business flows, object storage, and operational automation.
+**Why it matters:** It models a realistic product backend with authentication, RBAC, transactional business flows, object storage, and operational automation.
 
 **Highlights**
 - Built cookie-based sessions, RBAC, login audit events, and optional 2FA model support across separate user flows.
@@ -159,9 +159,9 @@ Models a realistic product backend with authentication, RBAC, transactional busi
 
 ### [Real-Time Emotion Recognition Platform](https://github.com/colacbrr/Real-Time-Emotion-Recognition-Platform)
 
-Applied ML platform for facial emotion recognition with training, comparison, and live inference workflows.
+**What it is:** Applied ML platform for facial emotion recognition with training, comparison, and live inference workflows.
 
-Turns model experimentation into a product-shaped system where multiple approaches can be compared through APIs and a dashboard.
+**Why it matters:** It turns model experimentation into a product-shaped system where multiple approaches can be compared through APIs and a dashboard.
 
 **Highlights**
 - Implemented classical baselines with HOG/LBP + SVM alongside deep learning models such as ResNet and EfficientNet.
@@ -174,9 +174,9 @@ Turns model experimentation into a product-shaped system where multiple approach
 
 ### [Reaction-Diffusion Benchmark](https://github.com/colacbrr/Reaction-Diffusion-Benchmark)
 
-Scientific Python CPU benchmark comparing vectorized NumPy and parallel Numba backends for a 2D FitzHugh-Nagumo simulation.
+**What it is:** Scientific Python CPU benchmark comparing vectorized NumPy and parallel Numba backends for a 2D FitzHugh-Nagumo simulation.
 
-Shows practical Python performance engineering: measuring when vectorization is enough and when JIT parallelism is worth the warm-up cost.
+**Why it matters:** It shows practical Python performance engineering: measuring when vectorization is enough and when JIT parallelism is worth the warm-up cost.
 
 **Highlights**
 - Benchmarked both backends with identical equations, initial state, grid sizes, and iteration counts.
@@ -251,6 +251,8 @@ Currently working through **Google Cloud Skills Boost**, focused on certificatio
 
 ---
 
+## Notes
+
 I prefer real projects, readable code, measured benchmarks, and boring infrastructure that works.
 
 ```
@@ -262,6 +264,6 @@ Never trust a green build you didn't actually read.
 ## Find Me
 
 - **LinkedIn:** [linkedin.com/in/cristiancolacel](https://www.linkedin.com/in/cristiancolacel)
-- **CVs / deep-dives:** DM me on LinkedIn for role-specific CVs or technical project details
+- **For role-specific CVs or project details:** reach me on LinkedIn
 - **Location:** Bucharest, Romania
 - **Open to:** early-career / graduate / internship roles in backend, AI/ML, systems integration, full-stack, or data engineering
