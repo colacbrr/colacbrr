@@ -142,7 +142,7 @@ Executed functional, regression, and compatibility testing across three platform
 
 <br>
 
-### Full-Stack Startup Services Marketplace (StartStack Platform)](https://github.com/colacbrr/Startstack-Platform)
+### Full-Stack Startup Services Marketplace - StartStack Platform](https://github.com/colacbrr/Startstack-Platform)
 
 **What it is:** Full-stack e-startup and template marketplace with separate public, client, and staff workflows.
 
