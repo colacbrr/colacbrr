@@ -9,7 +9,6 @@
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/colacbrr?style=flat&label=followers)](https://github.com/colacbrr)
-[![GitHub stars](https://img.shields.io/github/stars/colacbrr?affiliations=OWNER&style=flat&label=stars)](https://github.com/colacbrr?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cristiancolacel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiancolacel)
 [![Location](https://img.shields.io/badge/location-Bucharest%2C%20Romania-555?style=flat&logo=googlemaps&logoColor=white)](https://github.com/colacbrr)
 [![Status](https://img.shields.io/badge/status-open%20to%20opportunities-2ea043?style=flat)](https://www.linkedin.com/in/cristiancolacel)
