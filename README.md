@@ -59,7 +59,7 @@ Helped accelerate recurring website deliverables by approximately 5 days through
 <br>
 
 **QA Game Tester · EA Games** &nbsp;|&nbsp; *June – December 2022, Bucharest*  
-*Dragon Age: The Veilguard (pre-release) · PC · PlayStation · Xbox*
+*Dragon Age: The Veilguard (pre-alpha) · PC · PlayStation · Xbox*
 
 Executed functional, regression, and compatibility testing across three platforms during the production cycle. Identified, reproduced, documented, and tracked defects with clear reproduction steps and severity context in Jira. Supported build implementation, version tracking, and release workflows through Azure DevOps.
 
