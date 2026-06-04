@@ -49,15 +49,10 @@ Executed functional, regression, and compatibility testing across three platform
 
 ## Education
 
-<br>
-
-**M.Sc. Information Systems** · POLITEHNICA Bucharest · *2025 – present*
-Focus: retrieval systems, MLOps, cloud-native architecture, applied AI.
-
-<br>
-
-**B.Eng. Computers and Information Technology** · POLITEHNICA Bucharest · *2020 – 2025*
-Bachelor thesis: Smart Solar Tracking System with Adaptive Energy Management (ESP32 + Raspberry Pi + Django + LSTM).
+| Degree | Institution | Period | Focus |
+|---|---|---|---|
+| M.Sc. Information Systems | POLITEHNICA Bucharest | 2025 – present | Retrieval systems, MLOps, cloud-native architecture, applied AI |
+| B.Eng. Computers and Information Technology | POLITEHNICA Bucharest | 2020 – 2025 | Software engineering, embedded systems, databases, AI/ML |
 
 ---
 
