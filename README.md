@@ -194,12 +194,12 @@ Product-oriented experiments and supporting projects. Actual usable software.
 | Project | What it does | Stack |
 |---|---|---|
 | [Mall Customer Segmentation](https://github.com/colacbrr/Mall-Customer-Segmentation) | Python + R segmentation project with aligned PCA + K-Means workflows, report generation, and a FastAPI + React automation layer | Python · R · scikit-learn · FastAPI · React · nbconvert · RMarkdown |
-| MLflow Model Lifecycle *(private)* | End-to-end MLflow workflow covering experiment tracking, model registry, aliases, local inference, and served prediction requests | Python · MLflow · scikit-learn · SQLite |
-| YouTube Transcript Pipeline *(private)* | CLI pipeline for scraping, normalization, deduplication, dataset assembly, TF-IDF baseline, and BiLSTM training | Python · Playwright · scikit-learn · TensorFlow/Keras · LSTM · Pandas |
+| [YouTube Transcript Pipeline](https://github.com/colacbrr/Youtube-Videos-Transcribe-Pipeline) | CLI pipeline for scraping, normalization, deduplication, dataset assembly, TF-IDF baseline, and BiLSTM training | Python · Playwright · scikit-learn · TensorFlow/Keras · LSTM · Pandas |
 | [InvestSim](https://github.com/colacbrr/InvestSim) | Browser-based personal finance simulator for compounding, contributions, inflation-adjusted value, withdrawals, IRR, scenarios, charts, and CSV export | Next.js · TypeScript · Tailwind · Recharts |
 | [CV & Cover Letter Generator](https://github.com/colacbrr/CV-CoverLetter-Generator) | Profile-driven CLI that generates ATS-optimized CV and cover letter packages from raw job offers and grounded profile facts | Python · LaTeX · pdflatex · Markdown parsing · CLI |
 | [Remote-Terminal](https://github.com/colacbrr/Remote-Terminal) | Phone-to-Linux remote access workflow using Tailscale, SSH, tmux, service-state restoration, and operator dashboards | Linux · Bash · Tailscale · SSH · tmux · systemd · Python |
 | Audio Analysis Platform | Real-time audio capture, streaming, FFT analysis, filtering, and live dashboard across hardware and browser | ESP32 · FastAPI · WebSockets · React |
+| MLflow Model Lifecycle | End-to-end MLflow workflow covering experiment tracking, model registry, aliases, local inference, and served prediction requests | Python · MLflow · scikit-learn · SQLite |
 | WardrobeApp | Wardrobe management with authenticated collection CRUD, private image storage, signed URLs, and outfit scaffolding | Next.js · Supabase · RLS · TypeScript |
 | LeafPad | Windows-first offline PDF reader with progress persistence, bookmarks, rotation, zoom, and touch-friendly navigation | Electron · React · PDF.js · TypeScript |
 | VocabMaster | Vocabulary learning mobile app with flashcard review, retention tracking, and study feedback | Flutter · Dart |
