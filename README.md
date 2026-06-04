@@ -40,7 +40,9 @@ I build backend-heavy, product-shaped systems that work end-to-end: **Python/Fas
 
 ## Role Fit
 
-I am best matched with backend, AI/ML engineering, data engineering, and internal-tool roles where the work involves APIs, retrieval pipelines, model-serving workflows, automation, or service integration.
+I am best matched with early-career software engineering roles that involve building practical systems end-to-end: APIs, product backends, dashboards, retrieval pipelines, model-serving workflows, automation, data flows, and service integration.
+
+Strongest directions: backend engineering, applied AI/ML, systems integration, full-stack product engineering, data engineering, and cloud-adjacent platform work.
 
 ---
 
