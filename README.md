@@ -70,7 +70,7 @@ Executed functional, regression, and compatibility testing across three platform
 | Degree | Institution | Period | Focus |
 |---|---|---|---|
 | M.Sc. Information Systems | POLITEHNICA Bucharest | 2025 – present | Computer vision, image and signal processing, statistical modeling, simulation, scientific databases, multimedia systems, wireless networks, optimization, and nature-inspired computing |
-| B.Eng. Computers and Information Technology | POLITEHNICA Bucharest | 2020 – 2025 | Software development, OOP, algorithms, data structures, AI fundamentals, statistics, digital logic, microprocessor architecture, and embedded-systems fundamentals |
+| B.Eng. Computers and Information Technology | POLITEHNICA Bucharest | 2020 – 2025 | Software engineering, OOP, algorithms, data structures, AI fundamentals, pattern recognition, computational intelligence, Android development, database design, networking, distributed systems, parallel computing, embedded systems, HCI/UI design, cryptography, and data protection |
 
 ---
 
