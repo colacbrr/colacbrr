@@ -127,7 +127,7 @@ Executed functional, regression, and compatibility testing across three platform
 
 <br>
 
-### [Multimedia Information Retrieval (RAG)](https://github.com/colacbrr/Multimedia-Information-Retrieval-RAG)
+### [Multimodal Semantic Search & RAG Engine](https://github.com/colacbrr/Multimedia-Information-Retrieval-RAG)
 
 **What it is:** Local-first semantic search over images and video using CLIP embeddings, FAISS indexes, FastAPI APIs, and a React interface.
 
@@ -142,7 +142,7 @@ Executed functional, regression, and compatibility testing across three platform
 
 <br>
 
-### [StartStack Platform](https://github.com/colacbrr/Startstack-Platform)
+### Full-Stack Startup Services Marketplace (StartStack Platform)](https://github.com/colacbrr/Startstack-Platform)
 
 **What it is:** Full-stack e-startup and template marketplace with separate public, client, and staff workflows.
 
@@ -157,7 +157,7 @@ Executed functional, regression, and compatibility testing across three platform
 
 <br>
 
-### [Real-Time Emotion Recognition Platform](https://github.com/colacbrr/Real-Time-Emotion-Recognition-Platform)
+### [Emotion Recognition Platform](https://github.com/colacbrr/Real-Time-Emotion-Recognition-Platform)
 
 **What it is:** Applied ML platform for facial emotion recognition with training, comparison, and live inference workflows.
 
