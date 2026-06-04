@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**Early-career software engineer focused on backend systems, applied AI/RAG, full-stack prototypes, and systems integration.**
+**Backend-leaning software engineer building applied AI/RAG systems, full-stack prototypes, and integration-heavy products.**
 
 `Python` · `FastAPI` · `React` · `Docker` · `RAG` · `MLOps` · `GCP`
 
@@ -24,21 +24,23 @@
 
 ## About
 
-Hey. I'm **Cristian-Adrian Colăcel**, an early-career software engineer from Bucharest, currently finishing a **Master's in Information Systems at POLITEHNICA Bucharest**.
+Hey. I'm **Cristian-Adrian Colăcel**, a software engineer from Bucharest currently finishing a **Master's in Information Systems at POLITEHNICA Bucharest**.
 
-I build backend-heavy, product-shaped systems that work end-to-end: **Python/FastAPI APIs**, **applied AI and retrieval pipelines**, **full-stack dashboards**, and infrastructure that can actually run under Docker Compose without ritual sacrifice. My strongest direction is **systems and integration engineering**, with a growing focus on **applied AI/ML engineering**, retrieval systems, model serving, MLOps workflows, and cloud-native architecture.
+I build backend-heavy, product-shaped systems that work end-to-end: **Python/FastAPI APIs**, **applied AI and retrieval pipelines**, **full-stack dashboards**, and infrastructure that can actually run, be tested, and be debugged locally. My strongest direction is **systems and integration engineering**, with a growing focus on **applied AI/ML engineering**, retrieval systems, model serving, MLOps workflows, and cloud-native architecture.
 
 ---
 
-## Looking for
+## Proof Points
 
-Junior / graduate / internship roles where I can work on:
+- Built 4 public end-to-end systems spanning RAG, full-stack platforms, ML inference, and scientific benchmarking.
+- Measured retrieval benchmarks: ~6.9 ms average search latency, Recall@10 0.88 on 1k images.
+- Delivered production-adjacent experience in Django web development and cross-platform QA.
 
-- backend systems and APIs
-- applied AI/RAG products
-- data and ML engineering workflows
-- full-stack internal tools
-- systems integration across services, infrastructure, and product
+---
+
+## Role Fit
+
+I am best matched with backend, AI/ML engineering, data engineering, and internal-tool roles where the work involves APIs, retrieval pipelines, model-serving workflows, automation, or service integration.
 
 ---
 
@@ -70,7 +72,7 @@ Executed functional, regression, and compatibility testing across three platform
 
 ---
 
-## Tech Stack / Spellbook
+## Tech Stack
 
 <br>
 
@@ -206,7 +208,7 @@ Product-oriented experiments and supporting projects. Actual usable software.
 
 ## Cloud / GCP
 
-Currently working through **Google Cloud Skills Boost**, focused on certification preparation and hands-on labs around data engineering, cloud infrastructure, BigQuery, Vertex AI, load balancing, and RAG workflows.
+Currently working through **Google Cloud Skills Boost**, focused on certification preparation and hands-on labs around data engineering, cloud infrastructure, BigQuery, Vertex AI, load balancing, and RAG workflows. I am using these labs to build evidence toward deployable cloud projects, not presenting them as production cloud experience.
 
 **Completed · 100% assessment scores**
 
@@ -247,14 +249,19 @@ Currently working through **Google Cloud Skills Boost**, focused on certificatio
 
 ---
 
-## Find Me
+## Notes
 
-- **LinkedIn:** [linkedin.com/in/cristiancolacel](https://www.linkedin.com/in/cristiancolacel)
-- **Location:** Bucharest, Romania
-- **Open to:** junior / graduate / internship roles in backend, AI/ML, systems integration, full-stack, or data engineering
+I prefer real projects, readable code, measured benchmarks, and boring infrastructure that works.
 
 ```
 Commit small.
 Document the ritual.
 Never trust a green build you didn't actually read.
 ```
+
+## Find Me
+
+- **LinkedIn:** [linkedin.com/in/cristiancolacel](https://www.linkedin.com/in/cristiancolacel)
+- **For role-specific CVs or project details:** reach me on LinkedIn
+- **Location:** Bucharest, Romania
+- **Open to:** early-career / graduate / internship roles in backend, AI/ML, systems integration, full-stack, or data engineering
